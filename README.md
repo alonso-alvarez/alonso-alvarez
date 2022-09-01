@@ -5,7 +5,7 @@
 </p>-->
 
 
-My name is Alonso. 
+My name is Alonso Alvarez.
 
 - 🧪 I’m mainly interested in numerical strategies for the simulation of the cardiovascular system.
 - 💻 Posdoctoral researcher at National Laboratory for Scientific Computing (https://www.lncc.br/).
