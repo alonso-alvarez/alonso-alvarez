@@ -11,11 +11,9 @@ My name is Alonso Alvarez.
 - 💻 Posdoctoral researcher at National Laboratory for Scientific Computing (https://www.lncc.br/).
 - 📚 Part of the HeMoLab team (https://hemolab.lncc.br).
 
-#### Currently working on: 
-[![python](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)]
-[![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Alonso-Alvarez-2) 
-[![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/7342921602652362) 
 ---
+#### Currently working on: 
+Python - Fortran - C++ - PHP
 
 #### You can find me on:
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0001-6512-3966) 
