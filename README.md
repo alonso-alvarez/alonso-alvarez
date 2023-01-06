@@ -11,6 +11,8 @@ My name is Alonso Alvarez.
 - 💻 Posdoctoral researcher at National Laboratory for Scientific Computing (https://www.lncc.br/).
 - 📚 Part of the HeMoLab team (https://hemolab.lncc.br).
 
+#### Currently working on: 
+
 #### You can find me on:
 
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0001-6512-3966) 
