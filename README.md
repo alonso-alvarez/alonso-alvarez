@@ -12,7 +12,8 @@ My name is Alonso Alvarez.
 - 📚 Part of the HeMoLab team (https://hemolab.lncc.br).
 
 ---
-#### Currently working on languages: Python, Fortran, C++, PHP, MATLAB
+#### Currently working on languages: 
+Python, Fortran, C++, PHP, MATLAB
 
 #### You can find me on:
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0001-6512-3966) 
