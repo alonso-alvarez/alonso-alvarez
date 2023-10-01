@@ -7,13 +7,13 @@ My name is Alonso Alvarez.
 - Part of the HeMoLab team (https://hemolab.lncc.br).
 
 <div align="center">
-<a href="https://www.researchgate.net/profile/Alonso-Alvarez-2">
+<a href="https://www.researchgate.net/profile/Alonso-Alvarez-2" target="_blank">
 <img src="https://img.shields.io/badge/Find%20me%20in%20ResearchGate-339933?style=for-the-badge&logo=researchgate&logoColor=white" alt="researchgate" />
 </a>
-<a href="http://hemolab.lncc.br">
+<a href="http://hemolab.lncc.br" target="_blank">
 <img src="https://img.shields.io/badge/Check%20out%20the%20HeMoLab-red?style=for-the-badge&logo=hetzner&logoColor=white" alt="hemolab" />
 </a>
-<a href="http://www.lncc.br">
+<a href="http://www.lncc.br" target="_blank">
 <img src="https://img.shields.io/badge/Check%20out%20the%20LNCC-blue?style=for-the-badge&logo=internetarchive" alt="hemolab" />
 </a>
 <a href="mailto:alonso.m.alvarez@gmail.com">
