@@ -1,5 +1,6 @@
 ### About me
 
+Hi there!
 My name is Alonso Alvarez.
 
 - I’m mainly interested in developing numerical/computational strategies for simulating phenomena related to the cardiovascular system.
@@ -40,8 +41,10 @@ My name is Alonso Alvarez.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+<br><br>
+  
+<a href="https://github.com/alonso-alvarez"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alonso-alvarez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alonso's GitHub stats" /></a> | <a href="https://github.com/alonso-alvarez"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonso-alvarez&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
-
 <!--
 #### You can find me on:
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0001-6512-3966) 
