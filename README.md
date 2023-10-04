@@ -35,8 +35,14 @@ My name is Alonso Alvarez.
 <img src="https://img.shields.io/badge/fortran-blue?style=for-the-badge&logo=fortran" alt="fortran" />
 <img src="https://img.shields.io/badge/C++-764ABC?style=for-the-badge&logo=cplusplus" alt="Cpp" />
 <img src="https://img.shields.io/badge/matlab-orange?style=for-the-badge&logo=octave" alt="matlab" />
+<img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash" alt="bash" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+</div>
+<div align="center">
+  
+<img src="https://img.shields.io/badge/inkscape-black?style=for-the-badge&logo=inkscape" alt="inkscape" />
+<img src="https://img.shields.io/badge/sublime-white?style=for-the-badge&logo=sublimetext" alt="sublime" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
