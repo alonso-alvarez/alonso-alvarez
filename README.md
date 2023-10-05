@@ -34,18 +34,18 @@ My name is Alonso Alvarez.
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran" alt="fortran" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cpp" />
-<img src="https://img.shields.io/badge/matlab-0790C0?style=for-the-badge&logo=octave" alt="matlab" />
-<img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash" alt="bash" />
+<img src="https://img.shields.io/badge/matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" alt="matlab" />
+<img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black" alt="bash" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker" alt="docker" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=black" alt="latex" />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=black" alt="overleaf" />  
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape" alt="inkscape" />
-<img src="https://img.shields.io/badge/sublime-FF9800?style=for-the-badge&logo=sublimetext" alt="sublime" />
+<img src="https://img.shields.io/badge/sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" alt="sublime" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
