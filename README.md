@@ -4,7 +4,7 @@ Hi there!
 My name is Alonso Alvarez.
 
 - I’m mainly interested in developing numerical/computational strategies for simulating phenomena related to the cardiovascular system.
-- Postdoctoral researcher at the National Laboratory for Scientific Computing at Petrópolis - RJ, Brasil (https://www.lncc.br/).
+- Researcher at the National Laboratory for Scientific Computing at Petrópolis - RJ, Brasil (https://www.lncc.br/).
 - Part of the HeMoLab team (https://hemolab.lncc.br).
 
 <div align="center">
