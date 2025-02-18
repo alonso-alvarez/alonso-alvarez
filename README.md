@@ -28,7 +28,7 @@ My name is Alonso Alvarez.
 - You can check out my publications in my Google Scholar profile: [Publications](https://scholar.google.com/citations?user=M-S6zbQAAAAJ&hl=en).
 - Also, find me in Lattes, the Brazilian platform to manage information on science and technology: [Lattes](http://lattes.cnpq.br/7342921602652362)
   
----
+<!-----
 ### Languages, Tools, and Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -49,7 +49,7 @@ My name is Alonso Alvarez.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-</div>
+</div>-->
 <!--<br><br>
   
 <a href="https://github.com/alonso-alvarez"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alonso-alvarez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alonso's GitHub stats" /></a> | <a href="https://github.com/alonso-alvarez"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonso-alvarez&layout=compact&theme=buefy&hide_border=true" /></a>
